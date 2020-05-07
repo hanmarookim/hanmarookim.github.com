@@ -9,8 +9,8 @@ hanmarookim.github.io
 2. [Jekyll] 설치
 
 ```console
-$ git clone git@github.com:hanmarookim/hanmarookim.github.com.git
-$ cd hanmarookim.github.com
+$ git clone git@github.com:hanmarookim/hanmarookim.github.io.git
+$ cd hanmarookim.github.io
 $ bundle install
 ```
 
